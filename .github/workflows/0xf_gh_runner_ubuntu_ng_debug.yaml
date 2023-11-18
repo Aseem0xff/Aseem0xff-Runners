@@ -9,7 +9,7 @@ env:
   #If it's least privileged, NOT Pre-Approved and you don't care bots sshing into your machines, uncomment and replace with yours.
   #TSKEY: "tskey-auth-k99X9C6CNTRL-9vLLaJWxZBShRvNFSifuBSwvm3fijbBAE"
   #This is the machine name
-  THOST: "gh-runner-ubuntu"
+  THOST: "gh-runner-ubuntu-shared"
   #The Username for Runners
   TUSER: "runner"
   
